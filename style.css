@@ -1,0 +1,53 @@
+body {
+	background: skyblue;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.intro {
+	margin: 30px 0px;
+	font-weight: bold;
+}
+
+h1 {
+	color: #ffffff;
+	text-transform: uppercase;
+	font-weight: 800;
+	font-size: 0.8in;
+}
+
+p {
+	font-weight: 600;
+	font-size: 0.2in;
+}
+
+#first {
+	margin-top: 10px;
+	color:darkred
+}
+
+#second {
+	color: darkolivegreen;
+
+}
+
+#third {
+	color: #025F70;
+	margin-bottom: 30px;
+}
+
+
+#enter {
+	border: none;
+	padding: 5px 15px;
+	border-radius: 5px;
+	color: skyblue;
+	background-color: #025F70;
+	transition: all 0.75s ease;
+	-webkit-transition: all 0.75s ease;
+	-moz-transition: all 0.75s ease;
+	-ms-transition: all 0.75s ease;
+	-o-transition: all 0.75 ease;
+	font-weight: normal;
+}
+
